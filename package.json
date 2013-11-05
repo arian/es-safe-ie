@@ -1,6 +1,6 @@
 {
   "name": "es-safe-ie",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Transforms unsafe code to safe code for <IE9",
   "main": "es-safe-ie.js",
   "bin": {
