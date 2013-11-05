@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "Transforms unsafe code to safe code for <IE9",
   "main": "es-safe-ie.js",
+  "bin": {
+    "es-safe-ie": "bin/es-safe-ie.js"
+  },
   "scripts": {
     "test": "node test/es-safe-ie"
   },
