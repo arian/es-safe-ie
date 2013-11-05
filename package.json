@@ -1,0 +1,31 @@
+{
+  "name": "es-safe-ie",
+  "version": "0.0.0",
+  "description": "Transforms unsafe code to safe code for <IE9",
+  "main": "es-safe-ie.js",
+  "scripts": {
+    "test": "node test/es-safe-ie"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arian/es-safe-ie.git"
+  },
+  "keywords": [
+    "AST",
+    "IE",
+    "safe",
+    "transform",
+    "keywords"
+  ],
+  "author": "Arian Stolwijk",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/arian/es-safe-ie/issues"
+  },
+  "dependencies": {
+    "estraverse": "~1.3.2"
+  },
+  "devDependencies": {
+    "ansidiff": "~1.0.0"
+  }
+}
