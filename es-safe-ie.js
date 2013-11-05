@@ -28,7 +28,23 @@ var keywords = [
     'throw',
     'delete',
     'in',
-    'try'
+    'try',
+    'class',
+    'enum',
+    'extends',
+    'super',
+    'const',
+    'export',
+    'import',
+    'implements',
+    'let',
+    'private',
+    'public',
+    'yield',
+    'interface',
+    'package',
+    'protected',
+    'static'
 ];
 
 module.exports = function(ast) {
